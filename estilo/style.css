@@ -44,6 +44,19 @@ header{
   text-align: center;
 }
 
+.fale{
+  background-color:var(--cor2);
+}
+.pfale{
+  font-family: var(--fonte-android);
+  text-align: center;
+}
+
+.pfale2{
+  padding: 5px;
+}
+
+
 header h1{
   color: white;
   font-family: var(--fonte-padrao);
